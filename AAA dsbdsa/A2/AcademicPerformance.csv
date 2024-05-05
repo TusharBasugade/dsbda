@@ -1,0 +1,21 @@
+Roll No,Name,Attendance,Sub1_marks,Sub2_marks,Sub3_marks,Total Marks,Percentage,Result
+1,Rohit,69.5,30,81,87,198,66,Pass
+2,Virat,61,56,,28,84,28,Fail
+3,Christiano,80,,35,45,80,26.66666667,Fail
+4,Lionel,95,35,-5,89,119,39.66666667,Pass
+5,Mbappe,55,95,62,68,225,75,Pass
+6,Mahendra Singh,78,34,45,-15,64,21.33333333,Fail
+7,Sadio,,65,85,24,174,58,Pass
+8,Sergio,40,35,78,54,167,55.66666667,Pass
+9,Bumrah,56,25,57,,82,27.33333333,Fail
+10,Shreyas,83,65,,89,154,51.33333333,Pass
+11,Rohit,69.5,30,81,87,198,66,Pass
+12,,61,56,,54,110,36.66666667,Pass
+13,Christiano,80,117,35,45,197,65.66666667,Pass
+14,Lionel,95,35,54,32,121,40.33333333,Pass
+15,Mbappe,55,54,62,68,184,61.33333333,Pass
+16,,88,34,45,,79,26.33333333,Fail
+17,Sadio,,65,85,24,174,58,Pass
+18,Sergio,40,35,78,134,247,82.33333333,Pass
+19,Bumrah,56,25,57,15,97,32.33333333,Fail
+20,Shreyas,65,65,51,89,205,68.33333333,Pass
